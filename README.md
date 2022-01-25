@@ -1,2 +1,3 @@
 # Business-IT-Solutions-Near-Me
 What's a business without trying new techniques and tackling more challenges? More often, we see an offline store going online or entering the e-commerce world. But, how many times have you observed an online store willing to start an offline store? O2O (Online-To-Offline) business strategy is the new trend among big companies. The world’s largest e-commerce company-Amazon is also set to go O2O. Along with this, Google has also decided to choose this model as a customer-driven approach. To read more: https://www.marcamor.com/blog.html
+![blog2](https://user-images.githubusercontent.com/97289201/150938885-5405491e-40d2-4bf3-b59a-6617eb20d8e8.jpg)
